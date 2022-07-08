@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
+REACT SNEAKERS SHOP!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Writer is Alexey "Gorizontal" Nekrasov.
+Design by Alexey "Gorizontal" Nekrasov.
+
 
 ## Available Scripts
 
